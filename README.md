@@ -1,2 +1,0 @@
-# Parcial2
-# parcial
